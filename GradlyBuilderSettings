@@ -1,0 +1,11 @@
+Android SDK = C:\Users\HoangHVP\AppData\Local\Android\sdk
+Gradle = C:\Users\HoangHVP\.gradle\wrapper\dists\gradle-2.2-all\3qtuormg932jiupng16e79muug\gradle-2.2
+Workspace = D:\gradle_test\workspace1
+Repository = copilot-public
+IsRepAuthentication = false
+Rep Username = 
+Rep Password = 
+Nexus Username = admin
+Nexus Password = admin123
+Nexus = http://localhost:8083/nexus
+cUrl = D:\soft\curl-7.40.0-win64\curl-7.40.0-win64
